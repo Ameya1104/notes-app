@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "title": "Expenses",
+      "details": "Food: 150",
+      "category": "Money",
+      "id": 7
+    },
+    {
+      "title": "SEM 4 ESE",
+      "details": "Make a study plan for ESE",
+      "category": "Todos",
+      "id": 8
+    },
+    {
+      "title": "Blog Writing",
+      "details": "Submit blog before EOD.",
+      "category": "Work",
+      "id": 9
+    },
+    {
+      "title": "LA ESE",
+      "details": "LA ESE on 15th May, 2021",
+      "category": "Reminders",
+      "id": 10
+    }
+  ]
+}
